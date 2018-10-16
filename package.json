@@ -1,0 +1,18 @@
+{
+  "name": "prime-cloud.logger",
+  "version": "0.0.0",
+  "description": "PrimeCloud.Logger",
+  "main": "server.js",
+  "author": {
+    "name": "jyoti.cheetu"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "i": "^0.3.5",
+    "log4js": "^0.6.38",
+    "log4js-node-mongodb": "^2.2.1",
+    "log4js-node-mssql": "^1.0.0",
+    "mssql": "^4.0.4",
+    "npm": "^5.3.0"
+  }
+}

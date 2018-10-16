@@ -1,0 +1,2 @@
+F:\Projects\NodeJS_VS\ExpressApp1\PrimeCloud.Logger\obj\Debug\PrimeCloud.Logger.njsprojResolveAssemblyReference.cache
+F:\Projects\NodeJS_VS\ExpressApp1\PrimeCloud.Logger\bin\Microsoft.NodejsTools.WebRole.dll
